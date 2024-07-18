@@ -1,0 +1,8 @@
+{
+    "rules": [
+      {
+        "pathPattern": "/presell/",
+        "apiPath": "https://api.memelinks.xyz/api/memelink/presell/**"
+      }
+    ]
+  }

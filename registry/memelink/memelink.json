@@ -1,0 +1,9 @@
+{
+    "host": "memelinks.xyz",
+    "api_host": "api.memelinks.xyz",
+    "chain_id": "1",
+    "short_host": "memelink",
+    "type": "presell",
+    "meta_url": "/link/presell/metadata",
+    "sign_url": "/link/presell/sign"
+}
